@@ -1,5 +1,0 @@
-keybuffer                         T_KEYBUFFER
-
-OUTPUT
-T_KEYBUFFER
-  sv_setpvn($arg, $var, 32);
